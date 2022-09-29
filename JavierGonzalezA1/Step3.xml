@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="Step3.xslt"?>
+<movies>
+  <movie id="454545">
+    <title>Pacific Rim</title>
+    <director>Guillermo Del Toro</director>
+    <year>2013</year>
+    <genre1>Action</genre1>
+    <genre2>Adventure</genre2>
+    <genre3>Sci-Fi</genre3>
+    <uri>https://www.imdb.com/title/tt1663662/?ref_=nv_sr_3?ref_=nv_sr_3</uri>
+  </movie>
+
+  <movie id="201106">
+    <title>Repo! The Genetic Opera</title>
+    <director>Darren Lynn Bousman</director>
+    <year>2006</year>
+    <genre1>Horror</genre1>
+    <genre2>Musical</genre2>
+    <genre3>Sci-Fi</genre3>
+    <uri>https://www.imdb.com/title/tt0963194/?ref_=nv_sr_3?ref_=nv_sr_3</uri>
+  </movie>
+
+  <movie id="552171">
+    <title>Guardians of the Galaxy Vol.2</title>
+    <director>James Gunn</director>
+    <year>2017</year>
+    <genre1>Adventure</genre1>
+    <genre2>Comedy</genre2>
+    <genre3>Sci-Fi</genre3>
+    <uri>https://www.imdb.com/title/tt3896198/?ref_=nv_sr_2?ref_=nv_sr_2</uri>
+  </movie>
+
+  <movie id="114116">
+    <title>Doctor Strange</title>
+    <director>Scott Derrickson</director>
+    <year>2016</year>
+    <genre1>Action</genre1>
+    <genre2>Adventure</genre2>
+    <genre3>Fantasy</genre3>
+    <uri>https://www.imdb.com/title/tt1211837/?ref_=tt_rec_tti</uri>
+  </movie>
+
+  <movie id="130718">
+    <title>Sorry to Bother You</title>
+    <director>Boots Riley</director>
+    <year>2018</year>
+    <genre1>Comedy</genre1>
+    <genre2>Absurdist</genre2>
+    <genre3>Sci-Fi</genre3>
+    <uri>https://www.imdb.com/title/tt5688932/?ref_=nv_sr_1?ref_=nv_sr_1</uri>
+  </movie>
+
+  <movie id="141281">
+    <title>Spider-Man: Into the Spider-Verse</title>
+    <director>Bob Persichetti</director>
+    <year>2018</year>
+    <genre1>Animated</genre1>
+    <genre2>Action</genre2>
+    <genre3>Adventure</genre3>
+    <uri>https://www.imdb.com/title/tt5688932/?ref_=nv_sr_1?ref_=nv_sr_1</uri>
+  </movie>
+
+  <movie id="018109">
+    <title>Summer Wars</title>
+    <director>Mamoru Hosada</director>
+    <year>2009</year>
+    <genre1>Animated</genre1>
+    <genre2>Action</genre2>
+    <genre3>Adventure</genre3>
+    <uri>https://www.imdb.com/title/tt1474276/?ref_=nv_sr_1?ref_=nv_sr_1</uri>
+  </movie>
+
+  <movie id="256682">
+    <title>The Thing</title>
+    <director>John Carpenter</director>
+    <year>1982</year>
+    <genre1>Horror</genre1>
+    <genre2>Mystery</genre2>
+    <genre3>Sci-Fi</genre3>
+    <uri>https://www.imdb.com/title/tt1474276/?ref_=nv_sr_1?ref_=nv_sr_1</uri>
+  </movie>
+
+  <movie id="138787">
+    <title>Evil Dead II</title>
+    <director>John Carpenter</director>
+    <year>1987</year>
+    <genre1>Horror</genre1>
+    <genre2>Comedy</genre2>
+    <genre3>Fantasy</genre3>
+    <uri>https://www.imdb.com/title/tt0092991/?ref_=nv_sr_4?ref_=nv_sr_4</uri>
+  </movie>
+
+  <movie id="060341">
+    <title>Fantasia</title>
+    <director>Joe Grant</director>
+    <year>1940</year>
+    <genre1>Animated</genre1>
+    <genre2>Musical</genre2>
+    <genre3>Fantasy</genre3>
+    <uri>https://www.imdb.com/title/tt0032455/?ref_=nv_sr_1?ref_=nv_sr_1</uri>
+  </movie>
+
+  <movie id="196698">
+    <title>Mulan</title>
+    <director>Tony Bancroft</director>
+    <year>1998</year>
+    <genre1>Animated</genre1>
+    <genre2>Musical</genre2>
+    <genre3>Action</genre3>
+    <uri>https://www.imdb.com/title/tt0120762/?ref_=nv_sr_2?ref_=nv_sr_2</uri>
+  </movie>
+
+  <movie id="216196">
+    <title>The Hunchback of Notre Dame</title>
+    <director>Gary Trousdale</director>
+    <year>1996</year>
+    <genre1>Animated</genre1>
+    <genre2>Musical</genre2>
+    <genre3>Drama</genre3>
+    <uri>https://www.imdb.com/title/tt0116583/?ref_=tt_rec_tti</uri>
+  </movie>
+
+  <movie id="792797">
+    <title>Hercules</title>
+    <director>Ron Clements</director>
+    <year>1997</year>
+    <genre1>Animated</genre1>
+    <genre2>Musical</genre2>
+    <genre3>Adventure</genre3>
+    <uri>https://www.imdb.com/title/tt0119282/?ref_=tt_rec_tti</uri>
+  </movie>
+
+  <movie id="155515">
+    <title>Mad Max: Fury Road</title>
+    <director>Ron Clements</director>
+    <year>2015</year>
+    <genre1>Action</genre1>
+    <genre2>Sci-Fi</genre2>
+    <genre3>Adventure</genre3>
+    <uri>https://www.imdb.com/title/tt1392190/?ref_=nv_sr_2?ref_=nv_sr_2</uri>
+  </movie>
+
+  <movie id="689999">
+    <title>The Iron Giant</title>
+    <director>Brad Bird</director>
+    <year>1999</year>
+    <genre1>Animated</genre1>
+    <genre2>Sci-Fi</genre2>
+    <genre3>Adventure</genre3>
+    <uri>https://www.imdb.com/title/tt0129167/?ref_=tt_rec_tti</uri>
+  </movie>
+
+  <movie id="101414">
+    <title>John Wick</title>
+    <director>Chad Stahelski</director>
+    <year>2014</year>
+    <genre1>Action</genre1>
+    <genre2>Crime</genre2>
+    <genre3>Thriller</genre3>
+    <uri>https://www.imdb.com/title/tt2911666/?ref_=nv_sr_2?ref_=nv_sr_2</uri>
+  </movie>
+
+</movies>
